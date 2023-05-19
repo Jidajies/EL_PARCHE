@@ -1,0 +1,18 @@
+<!--Etiqueta de encabezados-->
+<h1>Chicos Hands on de Code!</h1>
+<h2>Es momento de escribir algunos encabezados</h2>
+<h3>etiqueta 3</h3>
+<h4>etiqueta 4</h4>
+<h5>etiqueta 5</h5>
+<h6>etiqueta 6</h6>
+<!--Etiqueta de parrafo-->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, fugit cupiditate? Aperiam porro officia quam error dicta quaerat necessitatibus quo. Ullam ea sed, sunt consequuntur vero repudiandae rem laborum nam.</p>
+<!--Etiquetas vacias y de formato de texto-->
+<em>Etiqueta de texto</em>
+<br>
+<mark>Mark</mark>
+<hr>
+<!--Etiqueta de hipervinculo-->
+<a href="/sesion2/index.html"><del>Acción Enlace Interno</del></a>
+<img src="/img/el papa.png" alt="omg de el papa">
+<a href="/script.html"> Volver al Inicio</a>
